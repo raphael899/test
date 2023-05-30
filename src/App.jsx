@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import Login from "./pages/Login";
-import Register from "./pages/registerUser";
+import Register from "./pages/RegisterUser";
 import TransportListMaritime from "./pages/transpot/TransportListMaritime";
 import TrasportList from "./pages/transpot/TrasportList";
 import Navbar from "./pages/navbar/Nav";
